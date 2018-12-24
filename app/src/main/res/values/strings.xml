@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppBarLayout with Collapsing ToolBar</string>
+    <string name="smartherd">Smartherd</string>
+    <string name="textDescription">Perhaps the best way to help a child explore,
+                                    express, understand emotions, problems, problem-solving,
+                                    habits, and much more is via stories. Be it a quick bedtime
+                                    tale or a grandma fable, each story helps a child enter a completely
+                                    different magical and imaginative world that has no boundaries.</string>
+</resources>
